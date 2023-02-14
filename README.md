@@ -12,5 +12,5 @@ Desde chico me gustaba mucho la tecnología pero nunca le había puesto el ojo a
 <h3> Contacto</h3>
 <ul>
     <li><a href="https://www.linkedin.com/in/joaquin-bustelo-0593a9242/">Linkedin</a></li>
-    <li>E-Mail: brenneke_ruger@hotmail.com></li>
+    <li>E-Mail: brenneke_ruger@hotmail.com</li>
 </ul>
