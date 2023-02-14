@@ -6,6 +6,11 @@ Desde chico me gustaba mucho la tecnología pero nunca le había puesto el ojo a
 <h2>🤺 ¿Que hago?</h2>
 <p>Actualmente me dedico a realizar proyectos web para seguír aprendiendo, mejorar mi lógica de programación y asi cada día ser un mejor desarrollador.</p>
 <h2>🚀 ¿A donde me dirijo?</h2>
-<p>Mi objetivo es aprender mucho sobre tecnología principalmente y pronto poder conseguir empleo en desarrollo que es lo que mas me apaciona</p>
+<p>Mi objetivo es principalmente aprender mucho sobre tecnología y pronto poder conseguir empleo en desarrollo web que es lo que mas me apaciona</p>
 <h3>🧑‍💻 ¿Que tecnologías uso?</h3>
 <p>HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | postgreSQL | Sequelize</p>
+<h3> Contacto</h3>
+<ul>
+    <li>Linkedin: <a>https://www.linkedin.com/in/joaquin-bustelo-0593a9242/</a></li>
+    <li>E-Mail: <a>brenneke_ruger@hotmail.com</a></li>
+</ul>
