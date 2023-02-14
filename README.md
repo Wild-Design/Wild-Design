@@ -11,6 +11,6 @@ Desde chico me gustaba mucho la tecnología pero nunca le había puesto el ojo a
 <p>HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | postgreSQL | Sequelize</p>
 <h3> Contacto</h3>
 <ul>
-    <li>Linkedin: <a>https://www.linkedin.com/in/joaquin-bustelo-0593a9242/</a></li>
-    <li>E-Mail: <a>brenneke_ruger@hotmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/joaquin-bustelo-0593a9242/">Linkedin</a></li>
+    <li><a href="brenneke_ruger@hotmail.com">E-Mail</a></li>
 </ul>
