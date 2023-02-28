@@ -1,9 +1,9 @@
-<head>
+<!-- <head>
 <style type="text/css">
  img{height:100px}
 </style>
 </head>
-
+ -->
 <h1>Hola 😁!! Mi nombre es Joaquín Bustelo</h1>
 <h3>También conocido como Wild 👀</h3>
 <h2>💭 ¿Quien soy?</h2>
