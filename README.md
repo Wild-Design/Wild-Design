@@ -14,7 +14,7 @@ Desde chico me gustaba mucho la tecnología pero nunca le había puesto el ojo a
 <h2>🚀 ¿A donde me dirijo?</h2>
 <p>Mi objetivo es principalmente aprender mucho sobre tecnología y pronto poder conseguir empleo en desarrollo web que es lo que mas me apaciona</p>
 <h3>🧑‍💻 ¿Que tecnologías uso?</h3>
-<p>HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | postgreSQL | Sequelize</p>
+<p>HTML | CSS | JavaScript | ReactJs | Redux | Node/Express | postgreSQL | Sequelize | TypeScript</p>
 <h3> Contacto</h3>
 <ul>
     <li><a href="https://www.linkedin.com/in/joaquin-bustelo-0593a9242/">Linkedin</a></li>
