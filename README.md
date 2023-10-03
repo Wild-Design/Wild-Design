@@ -5,7 +5,6 @@
 </head>
  -->
 <h1>Hola 😁!! Mi nombre es Joaquín Bustelo</h1>
-<h3>También conocido como Wild 👀</h3>
 <h2>💭 ¿Quien soy?</h2>
 <p>Soy desarrollador web full stack..<br/>
 Desde chico me gustaba mucho la tecnología pero nunca le había puesto el ojo a la programación hasta hace poco mas de un año cuando por curiosidad me puse a estudiar programación como autodidacta y en ese entonces sentí que la programación es lo que quiero para mi :).  </p>
